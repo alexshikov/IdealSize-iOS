@@ -19,7 +19,7 @@ import PackageDescription
 let package = Package(
     name: "YOUR_PROJECT_NAME",
     dependencies: [
-        .package(url: "https://github.com/alexshikov/IdealSize.git", .branch("main")), // TODO use tags
+        .package(url: "https://github.com/alexshikov/IdealSize-iOS.git", .branch("main")), // TODO use tags
     ]
 )
 ```
@@ -76,6 +76,4 @@ struct ContentView: View {
 
 # Licence
 
-MIT
-
-(Coming soon)
+MIT. See [License](./LICENSE)
