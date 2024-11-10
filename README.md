@@ -1,4 +1,4 @@
-![CI](https://github.com/alexshikov/IdealSize-iOS/workflows/ci/badge.svg)
+[![CI](https://github.com/alexshikov/IdealSize-iOS/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/alexshikov/IdealSize-iOS/actions/workflows/ci.yml)
 
 # Overview
 

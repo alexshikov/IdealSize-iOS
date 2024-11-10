@@ -1,4 +1,4 @@
-name: IdealSize iOS SDK Pipeline
+name: CI
 
 on:
   push:
