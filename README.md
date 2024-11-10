@@ -1,3 +1,5 @@
+![CI](https://github.com/alexshikov/IdealSize-SDK/actions/workflows/ci/badge.svg)
+
 # Overview
 
 This is a simple SDK that recommends body size absed based on Body Mass Index (BMI).
