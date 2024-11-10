@@ -1,4 +1,4 @@
-![CI](https://github.com/alexshikov/IdealSize-SDK/actions/workflows/ci/badge.svg)
+![CI](https://github.com/alexshikov/IdealSize-SDK/workflows/ci/badge.svg)
 
 # Overview
 
