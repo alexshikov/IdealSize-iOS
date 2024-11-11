@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a simple SDK that recommends body size absed based on Body Mass Index (BMI).
+This is a simple SDK that helps to provide a size recommendations based on Body Mass Index (BMI).
 
 
 # Requirements
