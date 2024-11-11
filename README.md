@@ -15,7 +15,7 @@ iOS 16.0+, MacOS 13.0+
 
 Use Swift Package Manager to install IdealSize SDK:
 
-```
+```swift
 import PackageDescription
 
 let package = Package(
